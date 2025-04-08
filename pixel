@@ -1,0 +1,92 @@
+<!DOCTYPE html>
+<html lang="kk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Ақпараттық технологиялар - Болашаққа қадам</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f9;
+            color: #333;
+        }
+        header {
+            background-color: #0077b6;
+            color: white;
+            padding: 20px 10px;
+            text-align: center;
+        }
+        header h1 {
+            margin: 0;
+            font-size: 2.5rem;
+        }
+        nav {
+            display: flex;
+            justify-content: center;
+            gap: 20px;
+            background-color: #023e8a;
+            padding: 10px 0;
+        }
+        nav a {
+            color: white;
+            text-decoration: none;
+            font-weight: bold;
+        }
+        nav a:hover {
+            text-decoration: underline;
+        }
+        main {
+            padding: 20px;
+            max-width: 1200px;
+            margin: 0 auto;
+        }
+        section {
+            margin-bottom: 20px;
+        }
+        section h2 {
+            color: #0077b6;
+        }
+        footer {
+            background-color: #0077b6;
+            color: white;
+            text-align: center;
+            padding: 10px 0;
+            margin-top: 20px;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        <h1>Ақпараттық технологиялар - Болашаққа қадам</h1>
+    </header>
+    <nav>
+        <a href="#about">Біз туралы</a>
+        <a href="#technologies">Технологиялар</a>
+        <a href="#future">Болашақ</a>
+        <a href="#contact">Байланыс</a>
+    </nav>
+    <main>
+        <section id="about">
+            <h2>Біз туралы</h2>
+            <p>Ақпараттық технологиялар қазіргі заманның ең маңызды салаларының бірі болып табылады. Ол адамның күнделікті өмірін жеңілдетуге, бизнесті дамытуға және жаңа мүмкіндіктер ашуға арналған.</p>
+        </section>
+        <section id="technologies">
+            <h2>Жаңа технологиялар</h2>
+            <p>Заманауи технологиялар, мысалы, жасанды интеллект, бұлттық есептеулер және интернет заттары әлемді өзгертіп жатыр. Олар өндірісті автоматтандырып, жаңа жұмыс орындарын құруға мүмкіндік береді.</p>
+        </section>
+        <section id="future">
+            <h2>Болашаққа көзқарас</h2>
+            <p>Болашақта ақпараттық технологиялар адамзаттың барлық саласында маңызды рөл атқарады. Смарт қалалар, жасанды интеллект және робототехника өмір сапасын арттырады.</p>
+        </section>
+        <section id="contact">
+            <h2>Байланыс</h2>
+            <p>Қосымша ақпарат алу үшін бізге хабарласыңыз: <a href="mailto:info@example.com">info@example.com</a></p>
+        </section>
+    </main>
+    <footer>
+        <p>&copy; 2025 Ақпараттық технологиялар - Болашаққа қадам. Барлық құқықтар қорғалған.</p>
+    </footer>
+</body>
+</html>
